@@ -1,8 +1,8 @@
 import ReactDOM from "react-dom/client";
 import {BrowserRouter,Routes,Route,Link} from "react-router-dom";
-import Nav from "./nav.js";
-import Home from "./pages/Home.js";
-import About from "./pages/About.js";
+import Nav from "./nav.jsx";
+import Home from "./pages/Home.jsx";
+import About from "./pages/About.jsx";
 
 function App() {
   return (
